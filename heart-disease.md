@@ -13,7 +13,7 @@ Classification involves deciding whether a sample is part of one class or anothe
 
 Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
 
-| <img src="ml101-6-step-ml-framework.png" width=500/> | 
+| <img src="images/ml101-6-step-ml-framework.png" width=500/> | 
 |:--:| 
 | 6 Step Machine Learning Modelling Framework |
 
